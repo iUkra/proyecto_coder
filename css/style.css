@@ -67,7 +67,7 @@ body{
 
 .linkNav{
    text-decoration: none;
-   color:rgb(65, 65, 65);
+   color:white;
    font-size: 1.5rem;
    
 }
@@ -109,7 +109,7 @@ body{
 
 .footer{
     background-color: #750505f6;
-    color:black;
+    color:white;
     height: auto;
     text-align: center;
 }
@@ -125,7 +125,7 @@ body{
     padding-left: 20px;
 }
 .icon{
-    color:rgb(33, 33, 33);
+    color:white;
     font-size: 2rem;
 }
 /* Dispositivos móviles */
