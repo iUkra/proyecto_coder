@@ -1,0 +1,30 @@
+.sectionCards{
+    text-align:center;
+    width: 90%;
+    margin:0 auto;
+   
+    
+}
+.sectionCards h2{
+    font-size: 2rem;
+    font-family: 'Mukta', sans-serif;
+    padding-bottom: 5vh;
+}
+
+.card{
+    margin-top:15vh;
+    width:30%;
+    display: inline-flex;
+    box-shadow: 2px 13px 32px 19px rgba(116, 32, 32, 0.75);
+    -webkit-box-shadow: 2px 13px 32px 19px rgba(116, 32, 32, 0.75);
+    -moz-box-shadow: 2px 13px 32px 19px rgba(116, 32, 32, 0.75);
+    background-color:#630c0c5b;
+    padding:2px;
+    
+}
+.card img{
+    width:90%;
+    height: 40vh;
+    object-fit: cover;
+   
+}

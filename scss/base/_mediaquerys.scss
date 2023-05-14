@@ -1,0 +1,122 @@
+/* Dispositivos móviles */
+@media (max-width: 767px) {
+
+    /* Cambia el tamaño del logo */
+    .logo {
+      width: 50%;
+    }
+  
+    /* Ajusta el ancho del contenedor del logo */
+    .contenedorLogo {
+      width: 50%;
+    }
+  
+    /* Ajusta el ancho del contenedor de navegación */
+    .navegacion {
+      width: 50%;
+  
+    }
+  
+    /* Ajusta el tamaño de fuente de los enlaces de navegación */
+    .linkNav {
+      font-size: 1.2rem;
+    }
+  
+    /* Ajusta el ancho del contenedor del título del encabezado */
+    .contenedorTituloHeader {
+      width: 70%;
+      height: 40vh;
+      margin-top: 10vh;
+    }
+  
+    /* Ajusta el tamaño de fuente del título y subtítulo del encabezado */
+    .contenedorTituloHeader h1,
+    .contenedorTituloHeader p {
+      font-size: 1.5rem;
+    }
+  
+    /* Ajusta el tamaño de las tarjetas */
+    .card {
+      margin-top: 10vh;
+      width: 80%;
+    }
+  
+    /* Ajusta el tamaño de fuente del pie de página */
+    .footer p {
+      font-size: 1rem;
+    }
+  
+  }
+  
+  /* Dispositivos pequeños */
+  @media (min-width: 768px) and (max-width: 991px) {
+  
+    /* Cambia el tamaño del logo */
+    .logo {
+      width: 35%;
+    }
+  
+    /* Ajusta el ancho del contenedor del logo */
+    .contenedorLogo {
+      width: 35%;
+    }
+  
+    /* Ajusta el ancho del contenedor de navegación */
+    .navegacion {
+      width: 50%;
+      text-align: center;
+    }
+  
+    /* Ajusta el tamaño de fuente de los enlaces de navegación */
+    .linkNav {
+      font-size: 1.3rem;
+    }
+  
+    /* Ajusta el ancho del contenedor del título del encabezado */
+    .contenedorTituloHeader {
+      width: 50%;
+      height: 40vh;
+      margin-top: 10vh;
+    }
+  
+    /* Ajusta el tamaño de fuente del título y subtítulo del encabezado */
+    .contenedorTituloHeader h1,
+    .contenedorTituloHeader p {
+      font-size: 1.8rem;
+    }
+  
+    /* Ajusta el tamaño de las tarjetas */
+    .card {
+      margin-top: 10vh;
+      width: 45%;
+    }
+  
+  }
+  
+  /* Dispositivos medianos */
+  @media (min-width: 992px) and (max-width: 1199px) {
+  
+    /* Ajusta el tamaño de fuente de los enlaces de navegación */
+    .linkNav {
+      font-size: 1.5rem;
+    }
+  
+    /* Ajusta el ancho del contenedor del título del encabezado */
+    .contenedorTituloHeader {
+      width: 50%;
+      height: 50vh;
+      margin-top: 10vh;
+    }
+  
+    /* Ajusta el tamaño de fuente del título y subtítulo del encabezado */
+    .contenedorTituloHeader h1,
+    .contenedorTituloHeader p {
+      font-size: 2rem;
+    }
+  
+    /* Ajusta el tamaño de las tarjetas */
+    .card {
+      margin-top: 1rem;
+      
+    }
+  }
