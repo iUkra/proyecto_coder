@@ -1,11 +1,12 @@
 .contenedorLogo{
-    width:30%;
+    width:20%;
     display:inline-flex;
-    padding-top:20px;
+    padding-top:10px;
+    float: right;
 }
 .logo{
-    width:25%;
-    filter:drop-shadow(8px 6px 4px #750505f6);
+    width:50%;
+    
  
 }
 .linkRedes{
@@ -14,5 +15,5 @@
 }
 .icon{
     color:white;
-    font-size: 2rem;
+    font-size: 1rem;
 }
